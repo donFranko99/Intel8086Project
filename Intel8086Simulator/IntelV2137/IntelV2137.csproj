@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>IntelSimulatorV5</RootNamespace>
+    <AssemblyName>IntelSimulatorV5</AssemblyName>
+    <ApplicationIcon>integrated-circuits-chips-dual-in-line-package-color-television-ram-png-favpng-MdnKd8TRUjcJa1Qt3mJ8Z.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
